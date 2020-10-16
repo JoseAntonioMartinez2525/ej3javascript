@@ -1,3 +1,4 @@
 console.log("<javascipt>")
-	var mensaje =  "Hola mundo! \n Que facil es incluir 'comillas simples' \n y \"comillas dobles";
-alert(mensaje);
+	var meses =["Enero ", "Febrero ", "Marzo ", "Abril \n" ,"Mayo ", " Junio ",
+	" Julio ", "Agosto \n", " Septiembre" , " Octubre ", " Noviembre ", " Diciembre"  ];
+alert(meses);
